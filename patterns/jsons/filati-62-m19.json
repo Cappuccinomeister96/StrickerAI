@@ -1,0 +1,26 @@
+{
+  "id": "filati-62-m19",
+  "filename": "filati-62-m19.pdf",
+  "title": "filati-62-m19",
+  "description": "Ein schönes pullover aus alpaka, schurwolle, polyamid",
+  "analysis": {
+    "yarnType": "Alpaka, Schurwolle, Polyamid",
+    "yarnWeight": null,
+    "garmentType": "Pullover",
+    "targetDemographic": null,
+    "gauge": "13 M x 20 R = 10 cm",
+    "needleType": "Nr. 5,5, Nr. 6,5, Rundstricknadel Nr. 5,5",
+    "positiveEase": null,
+    "constructionMethod": "bottom-up"
+  },
+  "difficulty": "Fortgeschritten",
+  "estimatedTime": "25-35 Stunden",
+  "sizes": [
+    "36/38",
+    "(40/42",
+    "–",
+    "44/46)",
+    "m"
+  ],
+  "createdAt": "2025-11-04T20:25:52.737Z"
+}

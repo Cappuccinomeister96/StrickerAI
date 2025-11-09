@@ -1,0 +1,27 @@
+{
+  "id": "kumulus-bluse-3-0-tysk",
+  "filename": "Kumulus Bluse 3.0 TYSK.pdf",
+  "title": "Kumulus Bluse 3.0 TYSK",
+  "description": "Ein schönes bluse aus silk mohair",
+  "analysis": {
+    "yarnType": "Silk Mohair",
+    "yarnWeight": null,
+    "garmentType": "Bluse",
+    "targetDemographic": null,
+    "gauge": "18 Maschen x 26 Reihen glatt rechts auf Nadel 4,5 mm = 10 x 10 cm",
+    "needleType": "Rundstricknadel 4,5 mm, Nadelspiel 4,5 mm",
+    "positiveEase": "ca. 10-15 cm",
+    "constructionMethod": "von oben nach unten"
+  },
+  "difficulty": "Fortgeschritten",
+  "estimatedTime": "20-30 Stunden",
+  "sizes": [
+    "XS",
+    "(S)",
+    "M",
+    "(L)",
+    "XL",
+    "(2XL)"
+  ],
+  "createdAt": "2025-11-04T20:25:33.895Z"
+}

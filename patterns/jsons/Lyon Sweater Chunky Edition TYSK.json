@@ -1,0 +1,27 @@
+{
+  "id": "lyon-sweater-chunky-edition-tysk",
+  "filename": "Lyon Sweater Chunky Edition TYSK.pdf",
+  "title": "Lyon Sweater Chunky Edition TYSK",
+  "description": "Ein schönes pullover aus wolle",
+  "analysis": {
+    "yarnType": "Wolle",
+    "yarnWeight": "Chunky",
+    "garmentType": "Pullover",
+    "targetDemographic": null,
+    "gauge": "16 Maschen x 24 Reihen glatt rechts auf Nadel 5 mm = 10 x 10 cm",
+    "needleType": "Rundstricknadel 5 mm, Rundstricknadel 4,5 mm, Rundstricknadel 4 mm, Nadelspiel 5 und 4,5 mm",
+    "positiveEase": "ca. 25 cm",
+    "constructionMethod": "von oben nach unten"
+  },
+  "difficulty": "Fortgeschritten",
+  "estimatedTime": "25-35 Stunden",
+  "sizes": [
+    "XXS",
+    "(XS)",
+    "S",
+    "(M)",
+    "L",
+    "(XL)"
+  ],
+  "createdAt": "2025-11-04T20:25:46.080Z"
+}

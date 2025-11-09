@@ -1,0 +1,23 @@
+{
+  "id": "2014-05",
+  "filename": "2014_05.pdf",
+  "title": "2014_05",
+  "description": "Ein schönes boxy-pulli aus linie 134 candy fb. 61 (orange)",
+  "analysis": {
+    "yarnType": "LINIE 134 CANDY Fb. 61 (orange)",
+    "yarnWeight": null,
+    "garmentType": "Boxy-Pulli",
+    "targetDemographic": null,
+    "gauge": "26 M and 34 R = 10 x 10 cm",
+    "needleType": "Nadel Nr. 3,5",
+    "positiveEase": null,
+    "constructionMethod": "quergestrickt"
+  },
+  "difficulty": "Fortgeschritten",
+  "estimatedTime": "20-30 Stunden",
+  "sizes": [
+    "36-40",
+    "M"
+  ],
+  "createdAt": "2025-11-04T20:25:05.432Z"
+}
