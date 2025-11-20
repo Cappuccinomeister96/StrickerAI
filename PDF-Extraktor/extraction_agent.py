@@ -25,34 +25,26 @@ class IngestionAgent:
 
     def process_pdf(self, pdf_path: str) -> RawDocument:
         """
-        Nimmt ein PDF, extrahiert Text (pdfplumber, ggf. OCR) und erkennt die Sprache.
+        Nimmt ein PDF, extrahiert Text per OCR und erkennt die Sprache.
         Gibt ein RawDocument zurück oder wirft eine Exception, wenn Sprache nicht de/en ist.
         """
         filename = os.path.basename(pdf_path)
 
-        # 1) Versuche, Text direkt aus PDF zu lesen
-        text = self._extract_text_pdfplumber(pdf_path)
+        # Text per OCR extrahieren (zuverlässigste Methode für alle PDF-Typen)
+        text = self._extract_text_ocr(pdf_path)
         word_count = self._count_words(text)
+        ocr_used = True
 
-        ocr_used = False
-
-        # 2) Falls zu wenig Text -> OCR
-        if word_count < self.config.min_word_threshold_for_ocr:
-            ocr_used = True
-            text = self._extract_text_ocr(pdf_path)
-            word_count = self._count_words(text)
-
-        # 3) minimaler Text vorhanden?
+        # Minimaler Text vorhanden?
         if word_count == 0:
             raise EmptyDocumentError(f"Kein Text im PDF gefunden: {filename}")
 
-        # 4) Text aufräumen
+        # Text aufräumen
         cleaned_text = self._clean_text(text)
 
-        # 5) Sprache erkennen
+        # Sprache erkennen
         language = self._detect_language(cleaned_text)
 
-        # Wenn wir hier sind, ist language sicher "de" oder "en"
         return RawDocument(
             filename=filename,
             language=language,
@@ -63,14 +55,6 @@ class IngestionAgent:
     # ------------------------------
     # Einzelne Schritte / Helpers
     # ------------------------------
-
-    def _extract_text_pdfplumber(self, pdf_path: str) -> str:
-        texts = []
-        with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages:
-                page_text = page.extract_text() or ""
-                texts.append(page_text)
-        return "\n".join(texts)
 
     def _extract_text_ocr(self, pdf_path: str) -> str:
         # PDF -> Images -> OCR pro Seite

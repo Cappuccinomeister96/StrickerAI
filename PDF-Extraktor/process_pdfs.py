@@ -3,6 +3,7 @@ from pathlib import Path
 from typing import List, Optional
 from extraction_agent import IngestionAgent, UnknownLanguageError, EmptyDocumentError
 from extraction_model import IngestionConfig
+import json
 
 
 def process_pdfs(pdf_files: Optional[List[Path]] = None, save: bool = False, print_text: bool = False) -> None:
@@ -44,10 +45,23 @@ def process_pdfs(pdf_files: Optional[List[Path]] = None, save: bool = False, pri
 
             if(save):
                 # Text in Datei speichern
-                output_file = Path(__file__).parent / "output" / f"{pdf_file.stem}.txt"
-                output_file.parent.mkdir(exist_ok=True)
-                output_file.write_text(doc.text, encoding="utf-8")
-                print(f"  -> Text gespeichert in: {output_file.name}")
+                out_dir = Path(__file__).parent / "output"
+                out_dir.mkdir(exist_ok=True)
+                json_file = out_dir / f"{pdf_file.stem}.json"
+
+                data = {
+                    "filename": pdf_file.name,
+                    "language": doc.language,       
+                    "ocr_used": doc.ocr_used, 
+                    "char_count": len(doc.text),
+                    "text": doc.text,
+                }
+
+                json_file.write_text(
+                    json.dumps(data, ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+                print(f"  -> JSON gespeichert in: {json_file.name}")
 
         except EmptyDocumentError as e:
             print(f"  -> Fehler (leer): {e}")
