@@ -1,0 +1,97 @@
+(cid:46)(cid:66)(cid:72)(cid:79)(cid:74)(cid:235)(cid:68)(cid:70)(cid:79)(cid:85)(cid:77)(cid:90)(cid:1)(cid:84)(cid:81)(cid:83)(cid:66)(cid:88)(cid:77)(cid:74)(cid:79)(cid:72)(cid:1)(cid:84)(cid:82)(cid:86)(cid:66)(cid:83)(cid:70)(cid:1)(cid:77)(cid:66)(cid:68)(cid:70)(cid:1)(cid:84)(cid:73)(cid:66)(cid:88)(cid:77)(cid:15)(cid:1)(cid:616)(cid:74)(cid:84)(cid:1)(cid:84)(cid:85)(cid:86)(cid:79)(cid:79)(cid:74)(cid:79)(cid:72)(cid:1)(cid:84)(cid:73)(cid:66)(cid:88)(cid:77)(cid:1)(cid:74)(cid:84)(cid:1)(cid:76)(cid:79)(cid:74)(cid:85)(cid:1)(cid:74)(cid:79)(cid:1)(cid:85)(cid:73)(cid:70)(cid:1)(cid:83)(cid:80)(cid:86)(cid:79)(cid:69)(cid:1)(cid:88)(cid:74)(cid:85)(cid:73)(cid:1)(cid:79)(cid:80)(cid:1)(cid:81)(cid:86)(cid:83)(cid:77)(cid:1)
+(cid:84)(cid:85)(cid:74)(cid:85)(cid:68)(cid:73)(cid:70)(cid:84)(cid:15)(cid:1)(cid:45)(cid:66)(cid:68)(cid:70)(cid:1)(cid:84)(cid:85)(cid:74)(cid:85)(cid:68)(cid:73)(cid:70)(cid:84)(cid:1)(cid:80)(cid:79)(cid:77)(cid:90)(cid:1)(cid:80)(cid:79)(cid:1)(cid:70)(cid:87)(cid:70)(cid:79)(cid:1)(cid:83)(cid:80)(cid:88)(cid:84)(cid:13)(cid:1)(cid:66)(cid:77)(cid:77)(cid:1)(cid:80)(cid:69)(cid:69)(cid:1)(cid:83)(cid:80)(cid:88)(cid:84)(cid:1)(cid:66)(cid:83)(cid:70)(cid:1)(cid:81)(cid:77)(cid:66)(cid:74)(cid:79)(cid:1)(cid:76)(cid:79)(cid:74)(cid:85)(cid:1)(cid:66)(cid:83)(cid:80)(cid:86)(cid:79)(cid:69)(cid:15)(cid:1)(cid:616)(cid:70)(cid:1)(cid:68)(cid:73)(cid:66)(cid:83)(cid:85)(cid:84)(cid:1)(cid:66)(cid:83)(cid:70)(cid:1)(cid:84)(cid:74)(cid:78)(cid:81)(cid:77)(cid:70)(cid:1)(cid:85)(cid:80)(cid:1)
+(cid:71)(cid:80)(cid:77)(cid:77)(cid:80)(cid:88)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:84)(cid:86)(cid:74)(cid:85)(cid:66)(cid:67)(cid:77)(cid:70)(cid:1)(cid:70)(cid:87)(cid:70)(cid:79)(cid:1)(cid:71)(cid:80)(cid:83)(cid:1)(cid:66)(cid:79)(cid:1)(cid:66)(cid:69)(cid:87)(cid:70)(cid:79)(cid:85)(cid:86)(cid:83)(cid:80)(cid:86)(cid:84)(cid:1)(cid:67)(cid:70)(cid:72)(cid:74)(cid:79)(cid:79)(cid:70)(cid:83)(cid:15)
+(cid:616)(cid:70)(cid:1)(cid:35)(cid:77)(cid:86)(cid:70)(cid:1)(cid:39)(cid:66)(cid:68)(cid:70)(cid:69)(cid:1)(cid:45)(cid:66)(cid:68)(cid:70)(cid:1)(cid:90)(cid:66)(cid:83)(cid:79)(cid:1)(cid:68)(cid:83)(cid:70)(cid:66)(cid:85)(cid:70)(cid:84)(cid:1)(cid:66)(cid:1)(cid:77)(cid:80)(cid:71)(cid:85)(cid:90)(cid:13)(cid:1)(cid:83)(cid:86)(cid:84)(cid:85)(cid:74)(cid:68)(cid:1)(cid:71)(cid:66)(cid:67)(cid:83)(cid:74)(cid:68)(cid:15)(cid:1)(cid:42)(cid:85)(cid:8)(cid:84)(cid:1)(cid:66)(cid:1)(cid:88)(cid:80)(cid:80)(cid:77)(cid:77)(cid:70)(cid:79)(cid:1)(cid:84)(cid:81)(cid:86)(cid:79)(cid:1)(cid:19)(cid:14)(cid:81)(cid:77)(cid:90)(cid:1)(cid:90)(cid:66)(cid:83)(cid:79)(cid:13)(cid:1)(cid:85)(cid:73)(cid:66)(cid:85)(cid:1)(cid:81)(cid:83)(cid:80)(cid:87)(cid:74)(cid:69)(cid:70)(cid:84)(cid:1)
+(cid:77)(cid:74)(cid:72)(cid:73)(cid:85)(cid:79)(cid:70)(cid:84)(cid:84)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:88)(cid:66)(cid:83)(cid:78)(cid:85)(cid:73)(cid:1)(cid:88)(cid:74)(cid:85)(cid:73)(cid:80)(cid:86)(cid:85)(cid:1)(cid:85)(cid:80)(cid:80)(cid:1)(cid:78)(cid:86)(cid:68)(cid:73)(cid:1)(cid:67)(cid:80)(cid:69)(cid:90)(cid:15)
+(cid:616)(cid:616)(cid:70)(cid:70)(cid:1)(cid:1)(cid:84)(cid:84)(cid:73)(cid:73)(cid:66)(cid:66)(cid:88)(cid:88)(cid:77)(cid:77)(cid:1)(cid:1)(cid:68)(cid:68)(cid:80)(cid:80)(cid:86)(cid:86)(cid:77)(cid:77)(cid:69)(cid:69)(cid:1)(cid:1)(cid:67)(cid:67)(cid:70)(cid:70)(cid:1)(cid:1)(cid:70)(cid:70)(cid:66)(cid:66)(cid:84)(cid:84)(cid:74)(cid:74)(cid:77)(cid:77)(cid:90)(cid:90)(cid:1)(cid:1)(cid:78)(cid:78)(cid:66)(cid:66)(cid:69)(cid:69)(cid:70)(cid:70)(cid:1)(cid:1)(cid:74)(cid:74)(cid:79)(cid:79)(cid:85)(cid:85)(cid:80)(cid:80)(cid:1)(cid:1)(cid:66)(cid:66)(cid:1)(cid:1)(cid:67)(cid:67)(cid:66)(cid:66)(cid:67)(cid:67)(cid:90)(cid:90)(cid:1)(cid:1)(cid:67)(cid:67)(cid:77)(cid:77)(cid:66)(cid:66)(cid:79)(cid:79)(cid:76)(cid:76)(cid:70)(cid:70)(cid:85)(cid:85)(cid:1)(cid:1)(cid:80)(cid:80)(cid:83)(cid:83)(cid:1)(cid:1)(cid:66)(cid:66)(cid:79)(cid:79)(cid:1)(cid:1)(cid:66)(cid:66)(cid:71)(cid:71)(cid:72)(cid:72)(cid:73)(cid:73)(cid:66)(cid:66)(cid:79)(cid:79)(cid:1)(cid:1)(cid:75)(cid:75)(cid:86)(cid:86)(cid:84)(cid:84)(cid:85)(cid:85)(cid:1)(cid:1)(cid:67)(cid:67)(cid:90)(cid:90)(cid:1)(cid:1)(cid:84)(cid:84)(cid:86)(cid:86)(cid:67)(cid:67)(cid:84)(cid:84)(cid:85)(cid:85)(cid:74)(cid:74)(cid:85)(cid:85)(cid:86)(cid:86)(cid:85)(cid:85)(cid:74)(cid:74)(cid:79)(cid:79)(cid:72)(cid:72)(cid:1)(cid:1)(cid:66)(cid:66)(cid:1)(cid:1)(cid:85)(cid:85)(cid:73)(cid:73)(cid:74)(cid:74)(cid:68)(cid:68)(cid:76)(cid:76)(cid:70)(cid:70)(cid:83)(cid:83)(cid:1)(cid:1)(cid:90)(cid:90)(cid:66)(cid:66)(cid:83)(cid:83)(cid:79)(cid:79)(cid:1)(cid:1)
+(cid:66)(cid:79)(cid:69)(cid:1)(cid:81)(cid:70)(cid:83)(cid:73)(cid:66)(cid:81)(cid:84)(cid:1)(cid:88)(cid:80)(cid:83)(cid:76)(cid:74)(cid:79)(cid:72)(cid:1)(cid:71)(cid:70)(cid:88)(cid:70)(cid:83)(cid:1)(cid:83)(cid:70)(cid:81)(cid:70)(cid:66)(cid:85)(cid:84)(cid:15)(cid:1)(cid:42)(cid:1)(cid:88)(cid:80)(cid:86)(cid:77)(cid:69)(cid:1)(cid:83)(cid:70)(cid:68)(cid:80)(cid:78)(cid:78)(cid:70)(cid:79)(cid:69)(cid:1)(cid:79)(cid:80)(cid:85)(cid:1)(cid:86)(cid:84)(cid:74)(cid:79)(cid:72)(cid:1)(cid:66)(cid:1)(cid:84)(cid:86)(cid:81)(cid:70)(cid:83)(cid:88)(cid:66)(cid:84)(cid:73)(cid:1)(cid:90)(cid:66)(cid:83)(cid:79)(cid:13)(cid:1)(cid:66)(cid:84)(cid:1)(cid:74)(cid:85)(cid:1)(cid:68)(cid:66)(cid:79)(cid:1)(cid:73)(cid:66)(cid:87)(cid:70)(cid:1)
+(cid:85)(cid:80)(cid:80)(cid:1)(cid:78)(cid:86)(cid:68)(cid:73)(cid:1)(cid:69)(cid:83)(cid:66)(cid:81)(cid:70)(cid:1)(cid:71)(cid:80)(cid:83)(cid:1)(cid:84)(cid:86)(cid:68)(cid:73)(cid:1)(cid:66)(cid:1)(cid:77)(cid:66)(cid:83)(cid:72)(cid:70)(cid:1)(cid:81)(cid:83)(cid:80)(cid:75)(cid:70)(cid:68)(cid:85)(cid:15)
+(cid:42)(cid:79)(cid:84)(cid:85)(cid:83)(cid:86)(cid:68)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:1)(cid:72)(cid:74)(cid:87)(cid:70)(cid:79)(cid:1)(cid:71)(cid:80)(cid:83)(cid:1)(cid:66)(cid:1)(cid:85)(cid:83)(cid:74)(cid:66)(cid:79)(cid:72)(cid:77)(cid:70)(cid:1)(cid:87)(cid:70)(cid:83)(cid:84)(cid:74)(cid:80)(cid:79)(cid:1)(cid:9)(cid:81)(cid:74)(cid:68)(cid:85)(cid:86)(cid:83)(cid:70)(cid:69)(cid:1)(cid:74)(cid:79)(cid:1)(cid:66)(cid:1)(cid:73)(cid:66)(cid:79)(cid:69)(cid:84)(cid:81)(cid:86)(cid:79)(cid:1)(cid:90)(cid:66)(cid:83)(cid:79)(cid:10)(cid:15)
+(cid:81)(cid:66)(cid:85)(cid:85)(cid:70)(cid:83)(cid:79)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:81)(cid:74)(cid:68)(cid:85)(cid:86)(cid:83)(cid:70)(cid:84)(cid:1)(cid:170)(cid:1)(cid:41)(cid:70)(cid:69)(cid:72)(cid:70)(cid:73)(cid:80)(cid:72)(cid:1)(cid:39)(cid:74)(cid:67)(cid:83)(cid:70)(cid:84)
+Yarn:
+Blue Faced Lace, 800m/100g by Hedgehog Fibres: 2 skeins for a square shawl, one skein for a triangle. Pictured in
+‘Wish’ colourway.
+A!lternatively, your lace weight handspun, see note below.
+Needle:
+4mm, 24’’or longer pair of circular needles. The square shawl is knitted in the round. The triangle shawl is knitted
+flat, however the circular needle will provide more room for the large number of stitches.
+You might want to change to a longer needle once you have a substantial amount of stitches, especially if you are
+making the square.
+Set of 4mm double pointed needles for the beginning of the shawl, or you can do a magic loop.
+C!rochet hook in a similar size for the cast on and cast off.
+Gauge:
+Gauge is not too important. The square shawl used approx. 1400m/177g, using the recommended yarn and needle
+s!ize. Allow 700 - 800m for the triangle version.
+Size:
+Square shawl is approx. 180cm square.
+Triangle shawl is 250cm wingspan and 125cm along the center spine, after blocking.
+T!he size can be easily adjusted by knitting less/more repeats of the Body Chart.
+Handspun notes:
+Hedgehog Fibres ‘Spinning Club’ braid - 40% Polwarth, 20% Alpaca, 20% Camel, 20% Silk (we don't carry this
+blend in the shop, it was made exclusively for our Spinning club, you can join here). I’ve used 120g. The yardage is
+around 800m and I’m a loose knitter. I’ve spun a woollen single from ‘fauxlags’ (more info here) to achieve a
+g!radient effect. The single ply yarn was subsequently fulled to add stability (more info on fulling here).
+Chart notes:
+T!he chart only shows odd rows - all even rows are to be knitted around/purled across.
+Square: All even rows are to be knitted around.
+Each chart shows only the stitches for one quarter of the shawl.
+As there’s only one quarter of the shawl charted, you must repeat the chart four times for each row - once for each
+q!uarter of the shawl.
+Triangle: All even rows are to be purled across.
+There’s only one half of the shawl charted, you must repeat the chart twice for each row - once for each half of the
+s!hawl.
+All first stitches are slipped, on wrong side (WS) purlwise on right side (RS) knitwise - this will result in nice chain-
+l!ike edge. The way you slip or don’t slip is not vital, just try to be consistent with the method you choose.
+Keep the slipped stitches loose otherwise the shawl won’t block right. If you are struggling to keep the edge loose
+enough, try: slip1, yo, at the beg. and yo, k1 at the end of each RS row and drop the 2 yos on the WS row. This will
+give the first and last stitch a bit more ‘give’.
+I!NSTRUCTIONS
+Square:
+U!sing a circular cast on, cast on 8 stitches (Emily Ocker’s or similar cast on)
+W!ork rows 1-24 of Setup Chart. Row 24 is a purl row, not charted.
+You will have 4 corner stitches (C), as a ‘spine’ running rom the center to the outer corners, with corresponding 2
+l!ines of YO.
+Work rows 1-12 of Body Chart 10 times, repeating the blue section as necessary.
+Row 12 is a purl row, not charted. The final size can be adjusted easily by doing more or fewer repeats of the Body
+C!hart.
+W!ork rows 1- 44 of the Edging Chart once, repeating the blue section as necessary. Row 44 is a purl row, not charted.
+Triangle:
+Garter tab cast on
+Cast on 3 stitches using any cast on method. Knit 6 rows. Now you have knitted a little rectangle. At the end of last
+row, do not turn work, instead rotate the work 90 degrees clockwise and pick up 3 stitches along the long side (where
+the purl bumps are). Rotate 90 degrees clockwise again, and pick up 3 stitches along the cast on edge. 9 stitches.
+S!tephen West’s tutorial here.
+Work rows 1-24 of the Setup Chart as follows:
+RS: slip1, knit 2, work chart, knit the center stitch (C), work chart again, knit 3
+WS: slip1, knit 2, purl until you have 3 stitches, knit 3 - creating a 3 stitch garter stitch border on both sides of the
+chart
+R!ow 24 is a purl row, not charted.
+Work rows 1-12 of Body Chart 10 times, repeating the blue section as necessary. Keep knitting the 3-stitch garter
+border as established. Row 12 is a purl row, not charted. The final size can be adjusted easily by doing more or fewer
+r!epeats of the Body Chart.
+Work rows 1-44 of the Edging Chart once, repeating the blue section as necessary. Row 44 is a purl row, not charted.
+K!eep knitting the 3-stitch garter border as established.
+CAST OFF
+S!ee diagram above Edging Chart
+Square:
+Bind off 13 stitches using Jeny’s surprisingy stretchy cast off. *Insert your crochet hook into the stitch on the right-
+hand needle stitch and chain 10, slip stitch back into the first stitch. Take the crochet hook out and replace with the
+needle. Bind off 16 using Jeny’s surprisingy stretchy cast off, repeat from * You want long loops where the stitches
+a!re marked with the red ‘x’.
+Triangle:
+Bind off 16 stitches using Jeny’s surprisingy stretchy cast off. *Insert your crochet hook into the stitch on the right-
+hand needle stitch and chain 10, slip stitch back into the first stitch. Take the crochet hook out and replace with the
+needle. Bind off 16 using Jeny’s surprisingy stretchy cast off, repeat from * You want long loops where the stitches
+a!re marked with the red ‘x’.
+T!he long loops of crochet chain will make the blocking a breeze and will create the dramatic pointed edge.
+!
+BLOCKING
+Block severely, especially if using the recommended commercial yarn, the Blue Faced Lace loves to be blocked hard
+- it becomes light and cobweb-like. Be more careful with handspun, especially if using a single as it may be more
+fragile.
+SETUP CHART
+BODY CHART
+E D G I N G C H A R T
+X X X X
+(cid:81)(cid:66)(cid:85)(cid:85)(cid:70)(cid:83)(cid:79)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:81)(cid:74)(cid:68)(cid:85)(cid:86)(cid:83)(cid:70)(cid:84)(cid:1)(cid:170)(cid:1)(cid:41)(cid:70)(cid:69)(cid:72)(cid:70)(cid:73)(cid:80)(cid:72)(cid:1)(cid:39)(cid:74)(cid:67)(cid:83)(cid:70)(cid:84)
+(cid:81)(cid:66)(cid:85)(cid:85)(cid:70)(cid:83)(cid:79)(cid:1)(cid:66)(cid:79)(cid:69)(cid:1)(cid:81)(cid:74)(cid:68)(cid:85)(cid:86)(cid:83)(cid:70)(cid:84)(cid:1)(cid:170)(cid:1)(cid:41)(cid:70)(cid:69)(cid:72)(cid:70)(cid:73)(cid:80)(cid:72)(cid:1)(cid:39)(cid:74)(cid:67)(cid:83)(cid:70)(cid:84)

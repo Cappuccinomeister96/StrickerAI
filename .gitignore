@@ -7,3 +7,5 @@ __pycache__/
 
 # Data files
 PDF-Extraktor/data/
+PDF-Extraktor/output/
+
