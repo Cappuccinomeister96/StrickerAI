@@ -1,0 +1,92 @@
+attributes:
+  wolle:
+    type: enum
+    description: "Garnstärke / yarn weight"
+    choices:
+      - thread
+      - cobweb
+      - lace
+      - light_fingering
+      - fingering
+      - sport
+      - dk
+      - worsted
+      - aran
+      - bulky
+      - super_bulky
+      - jumbo
+      - sock
+      - unknown
+
+  garntyp:
+    type: enum
+    description: "Faserart / yarn fiber type"
+    choices:
+      - wool
+      - merino
+      - cotton
+      - linen
+      - silk
+      - mohair
+      - alpaca
+      - cashmere
+      - bamboo
+      - acrylic
+      - polyamide
+      - viscose
+      - blend
+      - other
+
+  produkttyp:
+    type: enum
+    description: "Art des gestrickten Produkts"
+    choices:
+      - pullover
+      - cardigan
+      - jacke
+      - top
+      - tee
+      - kleid
+      - socken
+      - muetze
+      - schal
+      - tuch
+      - cowl
+      - handschuhe
+      - fingerlose_handschuhe
+      - poncho
+      - decke
+      - set
+      - sonstiges
+
+  geschlecht:
+    type: enum
+    description: "Zielgruppe"
+    choices:
+      - frau
+      - mann
+      - kind
+      - baby
+      - unisex
+
+  schwierigkeit:
+    type: enum
+    description: "Schwierigkeitsgrad"
+    choices:
+      - sehr_leicht
+      - leicht
+      - mittel
+      - schwierig
+      - experte
+
+  nadeln:
+    type: string
+    description: "Nadelstärken und -typen, z.B. '3,0–3,5 mm Rundnadel'"
+
+  maschenprobe:
+    type: string
+    description: "Maschenprobe, z.B. '26 M x 34 R = 10 x 10 cm'"
+
+  technik:
+    type: string
+    description: "Stricktechniken, z.B. 'Zopfmuster, Ajourmuster, kraus rechts'"
